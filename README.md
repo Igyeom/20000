@@ -1,7 +1,9 @@
-# 20000
-Files for the 20000-Byte Challenge. (Source: https://www.acmicpc.net/problem/20000)
+# What is this?
+These are files for the 20000-Byte Challenge. (Source: https://www.acmicpc.net/problem/20000)
 
 
+
+# A more detailed explanation
 I'm currently attempting the "20000-Byte Challenge" originating from a Korean programming judge called BOJ. Your code must simply output the contents of the ten files given here (I've copied them over to a GitHub repo): https://github.com/Igyeom/20000 when given the index of the challenge as an integer from stdin.
 
 
