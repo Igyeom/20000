@@ -8,12 +8,14 @@ I'm currently attempting the "20000-Byte Challenge" originating from a Korean pr
 
 
 
-e.g.
 ## Example stdin
 `0`
 
 ## Example stdout
 `BOJ 20000` (as seen on the repository)
+
+
+## Why this is difficult
 
 So when given `0`, output the contents of file `challenge0.out`, when given `1`, output the contents of file `challenge1.out`, and vice versa.
 
